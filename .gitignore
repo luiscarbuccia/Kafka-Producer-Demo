@@ -1,0 +1,10 @@
+
+*.lock
+
+.idea/.name
+.gradle/*
+.idea/*
+*.class
+build/*
+*.jar
+gradle/wrapper/gradle-wrapper.properties
